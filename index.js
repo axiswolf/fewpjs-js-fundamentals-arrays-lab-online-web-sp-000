@@ -1,5 +1,5 @@
 // Write your solution here!
-const pets = ["Milo", "Otis", "Garfield", "Odie"];
+const pets = ["Odie","Milo", "Otis", "Garfield"];
 pets.append('Odie');
 
 pets;
